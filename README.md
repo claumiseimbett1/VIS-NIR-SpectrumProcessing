@@ -71,3 +71,8 @@ pip install numpy polars matplotlib seaborn scipy jupyter
 **Claudia Milena Serpa Imbett**  
 Postdoctoral researcher, 2023–2025  
 Developed for **AGROSAVIA** spectral analysis of VIS–NIR plant reflectance data.
+
+## License
+
+**Proprietary / closed license.** All rights reserved.  
+See [LICENSE](LICENSE) for terms. Use, copy, modification, or distribution requires prior written authorization from the copyright holder(s).
