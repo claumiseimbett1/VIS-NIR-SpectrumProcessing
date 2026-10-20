@@ -88,8 +88,8 @@ pip install numpy polars matplotlib seaborn scipy jupyter
 
 ## License / Licencia
 
-**Proprietary / closed license. Licencia propietaria / cerrada.** All rights reserved / Todos los derechos reservados.
+This software is released under the [MIT License](LICENSE), so the code cited in a paper can be reused and redistributed.
 
-See [LICENSE](LICENSE) for terms. Use, copy, modification, or distribution requires prior written authorization from the copyright holder(s).
+Este software se publica bajo la [licencia MIT](LICENSE), de modo que el código citado en un artículo pueda reutilizarse y redistribuirse.
 
-Consulte [LICENSE](LICENSE) para los términos. El uso, copia, modificación o distribución requiere autorización previa por escrito del titular o titulares de los derechos.
+Copyright (c) 2023–2025 Claudia Milena Serpa Imbett / AGROSAVIA.
